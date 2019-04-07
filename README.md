@@ -38,6 +38,7 @@ La ruta donde debe permanecer el fichero .cpk ya modificado es content\Pack.
 ## ¿Puedo subir el fichero .cpk al repositorio?
 No, en este repositorio solo se alojan los textos tratducidos en formato .msbt.
 
-
+## Comunidad Clan DLAN:
+http://www.clandlan.net/foros/topic/80348-en-progresocolaborativa-traduccion-de-tokyo-mirage-sessions-fe-wii-u/
 
 Ahora que eres conocedor de todo esto, siéntete libre de participar, aportar ideas, herramientas y algún que otro café!
