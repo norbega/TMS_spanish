@@ -29,6 +29,9 @@ Para aportar a la traducción se están siguiendo los siguientes pasos:
   - Se genera un nuevo fichero .cpk con el software CpkFileBuilder y se sustitye en el directorio del juego.
   - Una vez testeados los cambios de la rama y validados, se sube la rama al repositorio y se realiza una petición de mergeo.
   
+## ¿Cómo genero el fichero .cpk?
+El fichero .cpk debe ser generado mediante el botón "Build CPK", una vez abierto con el software CpkFileBuilder mediante el fichero de proyecto "pack_031_message_trans.cpkproj".
+
 ## ¿Cuál es la ruta donde se debe dejar el fichero .cpk?
 La ruta donde debe permanecer el fichero .cpk ya modificado es content\Pack.
 

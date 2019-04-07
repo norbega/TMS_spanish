@@ -1,7 +1,6 @@
 /bin
 build_patch.bat
 lang.txt
-*.cpkproj
 *.tmp
 *.cpk
 *.swp
