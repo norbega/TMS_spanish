@@ -1,6 +1,6 @@
 ├ Battle
 │   ├ COMMON.msbt - DONE
-│   ├ EV_BOSS_00.msbt
+│   ├ EV_BOSS_00.msbt - DONE
 │   ├ EV_BTL_B1_3.msbt
 │   ├ EV_BTL_B3_1.msbt
 │   ├ EV_BTL_B3_3.msbt
