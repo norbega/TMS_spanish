@@ -7,7 +7,7 @@
 │   ├ EV_BTL_B4_2.msbt - DONE
 │   ├ EV_BTL_B4_3.msbt - DONE
 │   ├ EV_BTL_B5_3.msbt - DONE
-│   ├ EV_BTL_B5_4.msbt
+│   ├ EV_BTL_B5_4.msbt - DONE
 │   ├ EV_BTL_B6_1.msbt
 │   ├ EV_BTL_B6_2.msbt
 │   ├ EV_BTL_B6_3.msbt
