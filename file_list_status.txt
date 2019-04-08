@@ -10,7 +10,7 @@
 │   ├ EV_BTL_B5_4.msbt - DONE
 │   ├ EV_BTL_B6_1.msbt - DONE
 │   ├ EV_BTL_B6_2.msbt - DONE
-│   ├ EV_BTL_B6_3.msbt
+│   ├ EV_BTL_B6_3.msbt - DONE
 │   ├ EV_BTL_Q61_5.msbt
 │   ├ EV_BTL_QB10_1.msbt
 │   ├ EV_BTL_QB2_1.msbt
